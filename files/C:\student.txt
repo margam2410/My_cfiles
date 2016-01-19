@@ -1,0 +1,21 @@
+
+Name: ma 
+Marks=50 
+
+Name: na 
+Marks=50 
+
+Name: mn 
+Marks=0 
+
+Name: mna 
+Marks=2 
+
+Name: dnwj 
+Marks=22 
+
+Name: 1 
+Marks=50 
+
+Name: 1 
+Marks=1 
